@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Node Cron (Tareas programadas)",
+    "description": "Node cron es una librería que nos permite hacer tareas programadas al estilo de Linux, pero de una forma mas sencilla Primero debemos crear nuestro proyecto de NodeJS con el comando",
+    "tags": [
+      "Node",
+      "Node Cron",
+      "Tareas programadas"
+    ],
+    "image": "https: //www.linderhassinger.info/_next/image?url=https%3A%2F%2Fmiro.medium.com%2Ffit%2Fc%2F224%2F224%2F1*lnaHCW-LqDwJ8t2kE3QEYw.png&w=640&q=75",
+    "read_time": "2 minutos"
+  },
+  {
+    "name": "MVP (Producto mínimo viable)",
+    "description": "Hace unos días estaba en la oficina y escuche que alguien que quería emprender y le aconsejaron que haga un MVP de su idea, a lo cual esta respondió que no sabía que era, eso realmente me sorprendió y me hizo pensar que debe haber mucha gente que desconoce este tema así te guste todo el tema del emprendimiento, por eso en este relato te explicare con mis palabras lo que significa para mi hacer un MVP.",
+    "tags": [
+      "MVP",
+      "Producto mínimo viable"
+    ],
+    "image": "https://www.linderhassinger.info/_next/image?url=https%3A%2F%2Fmiro.medium.com%2Ffit%2Fc%2F224%2F224%2F1*8L3RS-ARIz14zy28cvMSrw.jpeg&w=640&q=75",
+    "read_time": "3 minutos"
+  }
+]
