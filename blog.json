@@ -19,5 +19,26 @@
     ],
     "image": "https://www.cloudways.com/blog/wp-content/uploads/Banner-Building-an-MVP-Factors-for-Creating-a-Sustainable-Prototype-Banner-1.jpg",
     "read_time": "3 minutos"
+  },
+   {
+    "name": "Node Cron (Tareas programadas)",
+    "description": "Node cron es una librería que nos permite hacer tareas programadas al estilo de Linux, pero de una forma mas sencilla Primero debemos crear nuestro proyecto de NodeJS con el comando",
+    "tags": [
+      "Node",
+      "Node Cron",
+      "Tareas programadas"
+    ],
+    "image": "https://www.seobility.net/es/wiki/images/9/91/Cron_Job.png",
+    "read_time": "2 minutos"
+  },
+  {
+    "name": "MVP (Producto mínimo viable)",
+    "description": "Hace unos días estaba en la oficina y escuche que alguien que quería emprender y le aconsejaron que haga un MVP de su idea, a lo cual esta respondió que no sabía que era, eso realmente me sorprendió y me hizo pensar que debe haber mucha gente que desconoce este tema así te guste todo el tema del emprendimiento, por eso en este relato te explicare con mis palabras lo que significa para mi hacer un MVP.",
+    "tags": [
+      "MVP",
+      "Producto mínimo viable"
+    ],
+    "image": "https://www.cloudways.com/blog/wp-content/uploads/Banner-Building-an-MVP-Factors-for-Creating-a-Sustainable-Prototype-Banner-1.jpg",
+    "read_time": "3 minutos"
   }
 ]
